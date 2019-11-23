@@ -88,7 +88,7 @@ section {
 
   .photo:nth-child(2) {
     display: inline-block;
-    width: 33.3333%
+    width: 33.3333%;
   }
 
   .photo:nth-child(5) {
